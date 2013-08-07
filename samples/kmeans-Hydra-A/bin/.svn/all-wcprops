@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/kmeans-Hydra-A/bin
+END
+gen_data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/kmeans-Hydra-A/bin/gen_data.sh
+END
+run_kmeans.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/kmeans-Hydra-A/bin/run_kmeans.sh
+END

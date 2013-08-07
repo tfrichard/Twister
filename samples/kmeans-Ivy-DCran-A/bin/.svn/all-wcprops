@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/samples/kmeans-Ivy-DCran-A/bin
+END
+par_points.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/samples/kmeans-Ivy-DCran-A/bin/par_points.sh
+END
+run_kmeans.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/samples/kmeans-Ivy-DCran-A/bin/run_kmeans.sh
+END

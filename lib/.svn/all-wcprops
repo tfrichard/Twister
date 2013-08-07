@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/lib
+END
+activemq-all-5.4.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/lib/activemq-all-5.4.3.jar
+END
+Twister-0.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/lib/Twister-0.9.jar
+END
+jaxen.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/lib/jaxen.jar
+END
+NaradaBrokering.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/lib/NaradaBrokering.jar
+END
+jdom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/lib/jdom.jar
+END
+jug-uuid.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/lib/jug-uuid.jar
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/lib/junit.jar
+END
+jug-asl-2.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/lib/jug-asl-2.0.0.jar
+END
+log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/lib/log4j.jar
+END

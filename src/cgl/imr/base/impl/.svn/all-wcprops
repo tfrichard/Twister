@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/impl
+END
+ReducerConf.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/impl/ReducerConf.java
+END
+JobConf.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/impl/JobConf.java
+END
+GenericBytesMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/impl/GenericBytesMessage.java
+END
+PubSubFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/impl/PubSubFactory.java
+END
+StringPropertyListImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/impl/StringPropertyListImpl.java
+END
+MapperConf.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/impl/MapperConf.java
+END
+GenericCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/impl/GenericCombiner.java
+END
+HashBasedReducerSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/impl/HashBasedReducerSelector.java
+END

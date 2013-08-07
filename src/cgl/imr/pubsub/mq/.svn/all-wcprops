@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/pubsub/mq
+END
+MQPubSubService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/pubsub/mq/MQPubSubService.java
+END
+MQMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/pubsub/mq/MQMessage.java
+END
+MQConfigurations.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/pubsub/mq/MQConfigurations.java
+END

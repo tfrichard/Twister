@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repository/!svn/ver/4047/Twister/branches/ivy-branch/src/cgl/imr/communication
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/src/cgl/imr/communication/Connection.java
+END
+NodeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/communication/NodeInfo.java
+END
+MultiChainBcaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/src/cgl/imr/communication/MultiChainBcaster.java
+END
+Receiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/src/cgl/imr/communication/Receiver.java
+END
+DataManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/src/cgl/imr/communication/DataManager.java
+END
+JobManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/communication/JobManager.java
+END
+FaultDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/communication/FaultDetector.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/src/cgl/imr/communication/Config.java
+END
+CollectiveComm.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/communication/CollectiveComm.java
+END
+NaiveBcaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repository/!svn/ver/4047/Twister/branches/ivy-branch/src/cgl/imr/communication/NaiveBcaster.java
+END
+DummyDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/src/cgl/imr/communication/DummyDriver.java
+END
+CodeConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/src/cgl/imr/communication/CodeConstants.java
+END
+Handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/src/cgl/imr/communication/Handler.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/src/cgl/imr/communication/Util.java
+END
+DummyDaemon.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/src/cgl/imr/communication/DummyDaemon.java
+END
+Sender.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/communication/Sender.java
+END
+ChainBcaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/src/cgl/imr/communication/ChainBcaster.java
+END

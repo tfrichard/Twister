@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/data
+END
+DataPartitionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/data/DataPartitionException.java
+END
+DataPartition.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/data/DataPartition.java
+END
+PartitionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/data/PartitionInfo.java
+END
+DataPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/data/DataPartitioner.java
+END
+NodePartitionPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/data/NodePartitionPair.java
+END

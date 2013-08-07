@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/samples/kmeans-Ivy-DCran-A/src/cgl/imr/samples/kmeans/ivy/dcran/a
+END
+KMeansClusteringMapTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/samples/kmeans-Ivy-DCran-A/src/cgl/imr/samples/kmeans/ivy/dcran/a/KMeansClusteringMapTask.java
+END
+BcastCentroidVectorData.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/samples/kmeans-Ivy-DCran-A/src/cgl/imr/samples/kmeans/ivy/dcran/a/BcastCentroidVectorData.java
+END
+KMeansPointsAssnMapTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/samples/kmeans-Ivy-DCran-A/src/cgl/imr/samples/kmeans/ivy/dcran/a/KMeansPointsAssnMapTask.java
+END
+KmeansClusteringDataSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/samples/kmeans-Ivy-DCran-A/src/cgl/imr/samples/kmeans/ivy/dcran/a/KmeansClusteringDataSplit.java
+END
+ShuffleKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/samples/kmeans-Ivy-DCran-A/src/cgl/imr/samples/kmeans/ivy/dcran/a/ShuffleKey.java
+END
+StaticImageVectorData.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/samples/kmeans-Ivy-DCran-A/src/cgl/imr/samples/kmeans/ivy/dcran/a/StaticImageVectorData.java
+END
+CombineVectorData.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/samples/kmeans-Ivy-DCran-A/src/cgl/imr/samples/kmeans/ivy/dcran/a/CombineVectorData.java
+END
+KMeansClusteringReduceTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/samples/kmeans-Ivy-DCran-A/src/cgl/imr/samples/kmeans/ivy/dcran/a/KMeansClusteringReduceTask.java
+END
+ShuffleVectorData.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/samples/kmeans-Ivy-DCran-A/src/cgl/imr/samples/kmeans/ivy/dcran/a/ShuffleVectorData.java
+END
+KMeansClusteringCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/samples/kmeans-Ivy-DCran-A/src/cgl/imr/samples/kmeans/ivy/dcran/a/KMeansClusteringCombiner.java
+END
+KmeansClustering.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/samples/kmeans-Ivy-DCran-A/src/cgl/imr/samples/kmeans/ivy/dcran/a/KmeansClustering.java
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/message
+END
+ReducerRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/message/ReducerRequest.java
+END
+PubSubMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/message/PubSubMessage.java
+END
+MemCacheClean.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/message/MemCacheClean.java
+END
+TaskStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/message/TaskStatus.java
+END
+MapTaskRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/message/MapTaskRequest.java
+END
+EndJobRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/message/EndJobRequest.java
+END
+DaemonStatusMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/message/DaemonStatusMessage.java
+END
+StartShuffleMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/message/StartShuffleMessage.java
+END
+MemCacheInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/message/MemCacheInput.java
+END
+DirListRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/message/DirListRequest.java
+END
+MapTaskGroupRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/message/MapTaskGroupRequest.java
+END
+ReduceInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/message/ReduceInput.java
+END
+WorkerResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/message/WorkerResponse.java
+END
+DirListResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/message/DirListResponse.java
+END
+StartReduceMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/message/StartReduceMessage.java
+END
+CombineInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/message/CombineInput.java
+END
+StartGatherMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/message/StartGatherMessage.java
+END
+NewJobRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/message/NewJobRequest.java
+END
+MapperRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/message/MapperRequest.java
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/src/cgl/imr/base
+END
+ReduceOutputCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/ReduceOutputCollector.java
+END
+Subscribable.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/Subscribable.java
+END
+MapTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/MapTask.java
+END
+KeyValuePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/KeyValuePair.java
+END
+MapOutputCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/MapOutputCollector.java
+END
+TwisterMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/TwisterMessage.java
+END
+StringPropertyList.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/StringPropertyList.java
+END
+TaskConf.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/TaskConf.java
+END
+TwisterMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/TwisterMonitor.java
+END
+Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/Value.java
+END
+PubSubException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/PubSubException.java
+END
+TwisterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/TwisterException.java
+END
+PubSubService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/PubSubService.java
+END
+TwisterModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/TwisterModel.java
+END
+KeyValueMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/KeyValueMap.java
+END
+Key.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/Key.java
+END
+TwisterSerializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/TwisterSerializable.java
+END
+ReducerSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/ReducerSelector.java
+END
+ReduceTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/ReduceTask.java
+END
+SerializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/SerializationException.java
+END
+TwisterConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repository/!svn/ver/4046/Twister/branches/ivy-branch/src/cgl/imr/base/TwisterConstants.java
+END
+Combiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/base/Combiner.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/kmeans-Hydra-DCran-A/src/cgl/imr/samples/kmeans/hydra/dcran/a
+END
+KMeansClusteringMapTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/kmeans-Hydra-DCran-A/src/cgl/imr/samples/kmeans/hydra/dcran/a/KMeansClusteringMapTask.java
+END
+BcastCentroidVectorData.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/kmeans-Hydra-DCran-A/src/cgl/imr/samples/kmeans/hydra/dcran/a/BcastCentroidVectorData.java
+END
+KMeansPointsAssnMapTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/kmeans-Hydra-DCran-A/src/cgl/imr/samples/kmeans/hydra/dcran/a/KMeansPointsAssnMapTask.java
+END
+KmeansClusteringDataSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/kmeans-Hydra-DCran-A/src/cgl/imr/samples/kmeans/hydra/dcran/a/KmeansClusteringDataSplit.java
+END
+ShuffleKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/kmeans-Hydra-DCran-A/src/cgl/imr/samples/kmeans/hydra/dcran/a/ShuffleKey.java
+END
+StaticImageVectorData.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/kmeans-Hydra-DCran-A/src/cgl/imr/samples/kmeans/hydra/dcran/a/StaticImageVectorData.java
+END
+CombineVectorData.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/kmeans-Hydra-DCran-A/src/cgl/imr/samples/kmeans/hydra/dcran/a/CombineVectorData.java
+END
+KMeansClusteringReduceTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/kmeans-Hydra-DCran-A/src/cgl/imr/samples/kmeans/hydra/dcran/a/KMeansClusteringReduceTask.java
+END
+ShuffleVectorData.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/kmeans-Hydra-DCran-A/src/cgl/imr/samples/kmeans/hydra/dcran/a/ShuffleVectorData.java
+END
+KMeansClusteringCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/kmeans-Hydra-DCran-A/src/cgl/imr/samples/kmeans/hydra/dcran/a/KMeansClusteringCombiner.java
+END
+KmeansClustering.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/kmeans-Hydra-DCran-A/src/cgl/imr/samples/kmeans/hydra/dcran/a/KmeansClustering.java
+END

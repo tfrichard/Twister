@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/mds-Hydra-A/src/cgl/imr/samples/mds/hydra/a
+END
+MDSMatrixData.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/mds-Hydra-A/src/cgl/imr/samples/mds/hydra/a/MDSMatrixData.java
+END
+MDSShort.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/mds-Hydra-A/src/cgl/imr/samples/mds/hydra/a/MDSShort.java
+END
+CalcXReduceTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/mds-Hydra-A/src/cgl/imr/samples/mds/hydra/a/CalcXReduceTask.java
+END
+MDSDataGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/mds-Hydra-A/src/cgl/imr/samples/mds/hydra/a/MDSDataGen.java
+END
+CalcBCShortMapTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/mds-Hydra-A/src/cgl/imr/samples/mds/hydra/a/CalcBCShortMapTask.java
+END
+MDSShortDataSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/mds-Hydra-A/src/cgl/imr/samples/mds/hydra/a/MDSShortDataSplit.java
+END
+MDSShortMatrixData.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/mds-Hydra-A/src/cgl/imr/samples/mds/hydra/a/MDSShortMatrixData.java
+END
+CalcBCReduceTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/mds-Hydra-A/src/cgl/imr/samples/mds/hydra/a/CalcBCReduceTask.java
+END
+MatrixException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/mds-Hydra-A/src/cgl/imr/samples/mds/hydra/a/MatrixException.java
+END
+StressShortMapTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/mds-Hydra-A/src/cgl/imr/samples/mds/hydra/a/StressShortMapTask.java
+END
+AvgOrigDistanceReduceTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/mds-Hydra-A/src/cgl/imr/samples/mds/hydra/a/AvgOrigDistanceReduceTask.java
+END
+MatrixUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/mds-Hydra-A/src/cgl/imr/samples/mds/hydra/a/MatrixUtils.java
+END
+MDSDataGenMapTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/mds-Hydra-A/src/cgl/imr/samples/mds/hydra/a/MDSDataGenMapTask.java
+END
+AvgOrigDistannceShortMapTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/mds-Hydra-A/src/cgl/imr/samples/mds/hydra/a/AvgOrigDistannceShortMapTask.java
+END
+CalcXShortMapTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/mds-Hydra-A/src/cgl/imr/samples/mds/hydra/a/CalcXShortMapTask.java
+END
+StressReduceTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/samples/mds-Hydra-A/src/cgl/imr/samples/mds/hydra/a/StressReduceTask.java
+END

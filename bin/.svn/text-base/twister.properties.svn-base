@@ -1,0 +1,152 @@
+#
+# Software License, Version 1.0
+#
+#  Copyright 2003 The Trustees of Indiana University.  All rights reserved.
+#
+#
+# Redistribution and use in source and binary forms, with or without
+# modification, are permitted provided that the following conditions are met:
+#
+# 1) All redistributions of source code must retain the above copyright notice,
+#  the list of authors in the original source code, this list of conditions and
+#  the disclaimer listed in this license;
+# 2) All redistributions in binary form must reproduce the above copyright
+#  notice, this list of conditions and the disclaimer listed in this license in
+#  the documentation and/or other materials provided with the distribution;
+# 3) Any documentation included with all redistributions must include the
+#  following acknowledgement:
+#
+# "This product includes software developed by the Community Grids Lab. For
+#  further information contact the Community Grids Lab at
+#  http://communitygrids.iu.edu/."
+#
+#  Alternatively, this acknowledgement may appear in the software itself, and
+#  wherever such third-party acknowledgments normally appear.
+#
+# 4) The name Indiana University or Community Grids Lab or Twister,
+#  shall not be used to endorse or promote products derived from this software
+#  without prior written permission from Indiana University.  For written
+#  permission, please contact the Advanced Research and Technology Institute
+#  ("ARTI") at 351 West 10th Street, Indianapolis, Indiana 46202.
+# 5) Products derived from this software may not be called Twister,
+#  nor may Indiana University or Community Grids Lab or Twister appear
+#  in their name, without prior written permission of ARTI.
+#
+#
+#  Indiana University provides no reassurances that the source code provided
+#  does not infringe the patent or any other intellectual property rights of
+#  any other entity.  Indiana University disclaims any liability to any
+#  recipient for claims brought by any other entity based on infringement of
+#  intellectual property rights or otherwise.
+#
+# LICENSEE UNDERSTANDS THAT SOFTWARE IS PROVIDED "AS IS" FOR WHICH NO
+# WARRANTIES AS TO CAPABILITIES OR ACCURACY ARE MADE. INDIANA UNIVERSITY GIVES
+# NO WARRANTIES AND MAKES NO REPRESENTATION THAT SOFTWARE IS FREE OF
+# INFRINGEMENT OF THIRD PARTY PATENT, COPYRIGHT, OR OTHER PROPRIETARY RIGHTS.
+# INDIANA UNIVERSITY MAKES NO WARRANTIES THAT SOFTWARE IS FREE FROM "BUGS",
+# "VIRUSES", "TROJAN HORSES", "TRAP DOORS", "WORMS", OR OTHER HARMFUL CODE.
+# LICENSEE ASSUMES THE ENTIRE RISK AS TO THE PERFORMANCE OF SOFTWARE AND/OR
+# ASSOCIATED MATERIALS, AND TO THE PERFORMANCE AND VALIDITY OF INFORMATION
+# GENERATED USING SOFTWARE.
+#
+#
+#Tue Feb 15 21:00:58 EST 2011
+#
+#Mon Feb 21 19:25:50 EST 2011
+#
+#Thu Mar 24 16:39:41 EDT 2011
+#
+#Mon Apr 11 23:58:02 EDT 2011
+#
+#Wed Apr 13 12:14:58 EDT 2011
+#
+#Wed Apr 13 12:16:13 EDT 2011
+#
+#Thu Apr 14 22:47:47 EDT 2011
+#
+#Thu Apr 14 23:33:44 EDT 2011
+#
+#Fri Apr 15 16:04:29 EDT 2011
+#
+#Fri Apr 15 16:11:35 EDT 2011
+#
+#Fri Apr 15 16:12:29 EDT 2011
+#
+#Sat Apr 16 01:37:03 EDT 2011
+#
+#Sat Apr 16 01:39:26 EDT 2011
+#
+#Sat Apr 16 01:41:49 EDT 2011
+#
+#Sun Apr 17 22:39:55 EDT 2011
+#
+#Sun Apr 17 22:45:07 EDT 2011
+#
+#Sat May 07 17:22:12 EDT 2011
+#
+#Sat May 07 17:29:06 EDT 2011
+#
+#Sat May 07 17:36:48 EDT 2011
+#
+#Sat May 07 17:38:21 EDT 2011
+#
+#Sat May 07 17:48:21 EDT 2011
+#
+#Sat May 07 18:07:38 EDT 2011
+#
+#Sat May 07 18:08:28 EDT 2011
+#
+#Sat May 07 18:26:34 EDT 2011
+#
+#Sat May 07 18:27:33 EDT 2011
+#
+#Sat May 07 18:28:16 EDT 2011
+#
+#Sat May 07 23:35:10 EDT 2011
+#
+#Sat May 07 23:57:22 EDT 2011
+#
+#Wed May 18 13:32:10 EDT 2011
+#
+#Wed May 18 13:32:40 EDT 2011
+#
+#Wed May 18 14:12:40 EDT 2011
+#
+#Wed May 18 14:34:17 EDT 2011
+#
+#Wed May 18 14:36:44 EDT 2011
+#
+#Wed May 18 14:38:56 EDT 2011
+#
+#Wed May 18 14:40:51 EDT 2011
+#
+#Wed May 18 15:48:25 EDT 2011
+#
+#Wed May 18 15:51:05 EDT 2011
+#
+#Wed May 18 15:52:15 EDT 2011
+#
+#Sat May 21 15:46:20 EDT 2011
+#
+#Sat May 21 15:55:33 EDT 2011
+#
+#Sat May 21 15:56:39 EDT 2011
+#
+#Tue May 24 10:57:36 EDT 2011
+#
+#Tue Jun 14 14:56:26 EDT 2011
+#
+#Tue Jun 14 15:16:06 EDT 2011
+#
+#Sun Jun 19 18:17:09 EDT 2011
+#
+#Tue Jul 05 10:12:00 EDT 2011
+#
+#Sun Aug 28 19:06:57 EDT 2011
+daemon_port=12500
+pubsub_broker=ActiveMQ
+data_dir=/tmp/zhangbj/data/
+app_dir=/home/zhangbj/Programs/Cyclone/apps
+workers_per_daemon=8
+nodes_file=/home/zhangbj/Programs/Cyclone/bin/nodes
+daemons_per_node=1

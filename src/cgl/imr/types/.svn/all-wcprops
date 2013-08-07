@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/types
+END
+StringKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/types/StringKey.java
+END
+BytesValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/types/BytesValue.java
+END
+IntKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/types/IntKey.java
+END
+StringValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/types/StringValue.java
+END
+DoubleValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/types/DoubleValue.java
+END
+DoubleVectorData.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/types/DoubleVectorData.java
+END
+IntValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/types/IntValue.java
+END
+NullValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/types/NullValue.java
+END
+LongKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/types/LongKey.java
+END
+MemCacheAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/types/MemCacheAddress.java
+END
+DoubleArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repository/!svn/ver/3789/Twister/branches/ivy-branch/src/cgl/imr/types/DoubleArray.java
+END
